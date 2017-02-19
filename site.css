@@ -1,0 +1,10 @@
+.star{
+  position: absolute;
+  color: white;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+body{
+  background-color: black;
+}

@@ -17,7 +17,7 @@ $(document).ready(function(){
   }
 
   function GenerateRandomWordStar() {
-        var requestStr = "http://randomword.setgetgo.com/get.php";
+        var requestStr = "http://setgetgo.com/randomword/get.php";
 
         $.ajax({
             type: "GET",
